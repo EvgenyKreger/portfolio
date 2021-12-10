@@ -1,0 +1,64 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.projects {
+    background-color: #191919;
+
+
+
+}
+.title{
+
+    font-size: 70px;
+    margin-top: 70px;
+    font-family: sans-serif;
+    color: white;
+
+
+
+
+
+}
+.project {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: auto;
+    flex-wrap: wrap;
+
+}
+.project1{
+    width: 360px;
+    height: auto;
+    color: white;
+    background-color:#101010;;
+    margin-bottom: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("https://media.istockphoto.com/photos/the-perfect-setting-to-complete-work-picture-id1251629816?b=1&k=20&m=1251629816&s=170667a&w=0&h=HFCKUXMAXu_gsKwAaVJ5Yfc5CpXhkok4Nu1KigsAXIQ=");
+    background-repeat: no-repeat;
+    border-radius: 10px;
+
+}
+
+
+.link2{
+    background-color: lightsteelblue;
+    opacity: 0.5;
+    text-decoration: none;
+    width: 150px;
+    height: auto;
+    font-size: xxx-large;
+    border-radius: 12px;
+    margin: 140px
+}

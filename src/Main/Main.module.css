@@ -1,0 +1,31 @@
+.container{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    flex-wrap: wrap;
+
+
+}
+.mainBlock{
+    background-image: url("https://wallbox.ru/resize/1920x1080/wallpapers/main/201441/abb173cbeeb74f5.jpg");
+
+}
+
+.text{
+    width: 400px;
+    height:auto;
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.name{
+    color:#f9004d;
+
+}
+.image {
+    width: 400px;
+    height: auto;
+}
